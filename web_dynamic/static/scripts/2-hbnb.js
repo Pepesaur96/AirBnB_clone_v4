@@ -19,9 +19,9 @@ $(document).ready(function (){
         console.log(data.status);
         if (data.status === "OK") {
             console.log('ok')
-            $("DIV#api_status").addClass("available");
+            $("div#api_status").addClass("available");
         } else {
-            $("DIV#api_status").removeClass("available");
+            $("div#api_status").removeClass("available");
         }
     })
 });
