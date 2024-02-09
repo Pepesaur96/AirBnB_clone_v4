@@ -2,9 +2,7 @@
 """ Starts a Flash Web Application """
 import uuid
 from os import environ
-
 from flask import Flask, render_template
-
 from models import storage
 from models.amenity import Amenity
 from models.city import City
