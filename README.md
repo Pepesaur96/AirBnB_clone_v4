@@ -1,4 +1,4 @@
-![plot](./web_dynamic/static/images/screenshot.png))
+![plot](./web_dynamic/static/images/screenshot.png)
 
 # AirBnB Clone - The Console
 
