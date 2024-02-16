@@ -182,7 +182,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-Hector J. Vazquez - [Github](https://github.com/Pepesaur96)
+Hector J. Vazquez - Passionate software developer dedicated to creating technology as a tool for creating inclusivity and accessibility for marginalized communities. Committed to utilizing innovative solutions to break down barriers and empower individuals through technology. [Github](https://github.com/Pepesaur96) | [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-v%C3%A1zquez-4b2a34170/)
 Omar Vélez - [Github](https://github.com/Natzu83)
 
 Second part of Airbnb: Joann Vuong
