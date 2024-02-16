@@ -1,4 +1,4 @@
-[image](https://imgur.com/a/co1svbx)
+![plot](./web_dynamic/static/images/screenshot.png))
 
 # AirBnB Clone - The Console
 
